@@ -1,0 +1,5 @@
+#!/bin/bash
+# I just whipped this up to run in my terminal. just
+# replace the location i put there with the location
+# you have the python program in
+python3 /home/jacko/projects/audio-checker/metadata.py $1
